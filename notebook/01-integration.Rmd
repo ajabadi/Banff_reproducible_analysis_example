@@ -1,0 +1,25 @@
+---
+title: "Integration"
+output: html_document
+---
+
+
+## Integration
+
+```{r cars}
+summary(cars)
+```
+
+### Tuning
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+summary(mtcars)
+```
+
+### Results
+
+```{r iris, echo=FALSE}
+plot(iris)
+```

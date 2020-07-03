@@ -1,0 +1,22 @@
+---
+title: "Preprocessing"
+output: html_document
+---
+
+## Preprocessing
+
+## RNA
+
+You can also embed plots, for example:
+
+```{r pressure1, echo=FALSE}
+plot(pressure)
+```
+
+
+### Proteins
+
+```{r}
+barplot(cbind(Employed, Unemployed) ~ Year, data = longley)
+```
+
