@@ -1,0 +1,14 @@
+---
+title: "Reprodcible Analysis with renv"
+author: Al JalalAbadi
+date: "`r Sys.Date()`"
+output: 
+    html_document:
+     toc: true
+---
+
+```{r, eval=TRUE, child = 'notebook/00-Preprocessing.Rmd'}
+```
+
+```{r, eval=TRUE, child = 'notebook/01-integration.Rmd'}
+```
