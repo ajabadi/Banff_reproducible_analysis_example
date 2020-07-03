@@ -7,8 +7,9 @@ output:
      toc: true
 ---
 
-```{r, eval=TRUE, child = 'notebook/00-Preprocessing.Rmd'}
+```{r, eval=TRUE, child = 'notebook/00-preprocessing.Rmd'}
 ```
 
 ```{r, eval=TRUE, child = 'notebook/01-integration.Rmd'}
 ```
+    
