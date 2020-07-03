@@ -1,6 +1,6 @@
 # Reproducible analysis hosted on RStudio Cloud
 
-This repository is an example of how to create a reproducible R project along with a fully reproducible project environemnt using [`renv`](https://rstudio.github.io/renv). It can be cloned onto and tested on [RStudio Cloud](http://rstudio.cloud/).
+This repository is an example of how to create a reproducible R project along with a fully reproducible project environemnt using [`renv`](https://rstudio.github.io/renv). It can be cloned onto and tested on [RStudio Cloud](http://rstudio.cloud/). You can run this example analysis report on https://rstudio.cloud/project/1434153.
 
 To adopt this report style using RStudio, follow the following steps:
 
