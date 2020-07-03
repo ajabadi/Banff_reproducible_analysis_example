@@ -12,4 +12,3 @@ output:
 
 ```{r, eval=TRUE, child = 'notebook/01-integration.Rmd'}
 ```
-    
